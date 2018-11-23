@@ -1,2 +1,4 @@
 # Hello-World
-My Firest Repository
+My First Repository
+
+I am Simon and I am learning to use Github
